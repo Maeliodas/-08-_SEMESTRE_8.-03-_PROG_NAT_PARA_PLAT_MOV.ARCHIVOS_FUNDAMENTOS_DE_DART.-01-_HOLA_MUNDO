@@ -1,5 +1,7 @@
 En este primer archivo conocimos lo basico de dart con este codigo, el cual en este momento lo estamos usando para imprimir el nombre definiendo constantes,
 viendo la diferencia entre variables y constantes
+
+```dart
 void main() {
   //var myname = 'Name';
     //String myname = 'Name';
